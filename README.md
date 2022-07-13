@@ -3,6 +3,7 @@
 <h3 align="center">Junior Frontend developer, currently state in Russia</h3>
 
 - :eyeglasses:Yandex student
+- :monocle_face: curious one
 - :sparkles:Trying to expand my knowledge in Web developing
 - :earth_africa:I want to work with experienced colleagues
 - :heartpulse:Get comfortable in the profession
