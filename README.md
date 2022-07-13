@@ -5,7 +5,7 @@
 - :eyeglasses: Yandex student
 - :monocle_face: curious one!
 - :sparkles: every day trying to expand my knowledge in Web developing
-- :earth_africa: I want to work with experienced colleagues
+- :earth_africa: I want to work with experienced colleagues all around the world
 - :heartpulse: to get more comfortable in the profession
 - :pouting_cat: and to learn how to write clean, readable code with different frameworks
 
