@@ -8,6 +8,7 @@
 - :earth_africa: I want to work with experienced colleagues all around the world
 - :heartpulse: to get more comfortable in the profession
 - :pouting_cat: and to learn how to write clean, readable code with different frameworks
+- :see_no_evil: Take a slice of pizza for your good mood today! :pizza:
 
 :gem:My stack
 - <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="32"/></h1>
