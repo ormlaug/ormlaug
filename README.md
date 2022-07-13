@@ -2,12 +2,12 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Junior Frontend developer, currently state in Russia</h3>
 
-- :eyeglasses:Yandex student
-- :monocle_face: curious one
-- :sparkles:Trying to expand my knowledge in Web developing
-- :earth_africa:I want to work with experienced colleagues
-- :heartpulse:Get comfortable in the profession
-- :pouting_cat:And to learn how to write clean, readable code
+- :eyeglasses: Yandex student
+- :monocle_face: curious one!
+- :sparkles: every day trying to expand my knowledge in Web developing
+- :earth_africa: I want to work with experienced colleagues
+- :heartpulse: to get more comfortable in the profession
+- :pouting_cat: and to learn how to write clean, readable code with different frameworks
 
 :gem:My stack
 - <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="32"/></h1>
