@@ -14,6 +14,7 @@
 - <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="32"/></h1>
 - <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="32"/></h1>
 - <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height="32"/></h1>
+- <img src="file:///C:/Users/%D0%9C%D0%BE%D1%80%D0%B5%D1%87%D0%BA%D0%B0/Downloads/babel.svg" height="32"/></h1>
 
 :heavy_check_mark:My statistics
 
