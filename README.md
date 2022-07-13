@@ -19,3 +19,6 @@
 :heavy_check_mark:My statistics
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+:calling:You can contact me with
+<a href="https://t.me/ormlaug" target="_blank">Telegram</a> or <a href="mailto:mrgrkk@gmail.com" target="_blank">Gmail</a>
