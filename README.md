@@ -22,3 +22,5 @@
 
 :calling:You can contact me with
 <a href="https://t.me/ormlaug" target="_blank">Telegram</a> or <a href="mailto:mrgrkk@gmail.com" target="_blank">Gmail</a>
+
+[![codewars](https://www.codewars.com/users/ormlaug/badges/micro)](https://www.codewars.com/users/ormlaug) 
