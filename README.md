@@ -10,12 +10,9 @@
 - :pouting_cat: and to learn how to write clean, readable code with different frameworks
 - :see_no_evil: Take a slice of pizza for your good mood today! :pizza:
 
-:gem:My stack
-- <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="32"/></h1>
-- <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" height="32"/></h1>
-- <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="32"/></h1> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="32"/></h1>
-- <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="32"/></h1> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="32"/></h1>
-- <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black" height="32"/></h1> <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="32"/></h1>
+:gem:My skills <br>
+<br>
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,git,figma&theme=light)](https://skills.thijs.gg) <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white">
 
 :heavy_check_mark:My statistics
 
